@@ -1,4 +1,4 @@
-# Escribe tu código del ejercicio en este archivo. Haz que las pruebas en test/word_test.rb pasen
+# Creates an instance which contains a word and its meaning
 class Word
   attr_reader :word, :meaning
 

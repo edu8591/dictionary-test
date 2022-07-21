@@ -1,4 +1,4 @@
-# Escribe tu código del ejercicio en este archivo. Haz que las pruebas en test/dictionary_test.rb pasen
+# Class Dictionary is used to find the meaning of the words passed for its initialization.class Dictionary
 class Dictionary
   def initialize(words)
     @words = words
